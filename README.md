@@ -1,8 +1,5 @@
 # Weather Dashboard
 
-![languages](https://img.shields.io/github/languages/count/jxhnkndl/weather-dashboard?style=plastic)
-![html](https://img.shields.io/github/languages/top/jxhnkndl/weather-dashboard?style=plastic)
-![commit](https://img.shields.io/github/last-commit/jxhnkndl/weather-dashboard?style=plastic)
 
 
 ## Table of Contents

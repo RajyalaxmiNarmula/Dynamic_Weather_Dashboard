@@ -11,7 +11,6 @@
 * [Technologies](#technologies)
 * [Features](#features)
 * [Application Demo](#live-demo)
-* [License](#license)
 * [Contact](#contact)
 
 
